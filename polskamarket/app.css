@@ -1,0 +1,435 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.menuu{
+    list-style-type: none;
+    width: 100%;
+    height: 20%;
+    background-color: white;
+    opacity: 0.9;
+    position: fix
+}
+.item{
+    display: inline-block;
+}
+#logo{
+    width: 70%;
+    height: 20%;
+    margin-left: 47%;
+    margin-top: 3%
+}
+#searchthis{
+    margin-left: 38%;
+    margin-top: 1.5%;
+}
+#search{
+    height: 20px;
+    width: 350px
+}
+#search-btn{
+    height: 25px;
+    width: 100px;
+    background-color: red;
+    color: white;
+    border-color: red;
+    font-family: 'Fredoka One', cursive;
+}
+#vars{
+    height: 99.9vh;
+    width: 100%;
+}
+#blog{
+    font-size: 40px;
+    margin-left: 1100%;
+}
+#panier{
+    font-size: 40px;
+    margin-left: 1120%;
+}
+#user{
+    font-size: 40px;
+    margin-left: 1000%;
+}
+#spirit, #souv, #alim{
+    font-size: 1.5em;
+    color: red;
+    padding: 10px;
+    font-family: 'Fredoka One', cursive;
+}
+#alim{
+    margin-left: 2.5%
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url("images/polopolo.jpg");
+}
+
+.leh1{
+    display: flex;
+    justify-content:center;
+    margin-top: 125px;
+    color: rgba(255, 255, 255, 0.705);
+    text-shadow: 2px 2px 3px rgb(134, 132, 132);
+    font-size: 125px;
+    
+}
+.leh2{
+    display: flex;
+    justify-content:center;
+    margin-top: 50px;
+    color: rgba(255, 255, 255, 0.705);
+    text-shadow: 2px 2px 3px rgb(134, 132, 132);
+    font-size: 100px;
+}
+.leh3{
+    display: flex;
+    justify-content:center;
+    margin-top: 50px;
+    color: rgba(255, 255, 255, 0.705);
+    text-shadow: 2px 2px 3px rgb(134, 132, 132);
+    font-size: 100px;
+}
+#conteneur{
+
+    display:flex;
+    justify-content: space-around;
+}
+.manip{
+    height: 105px;
+    width: 27%;
+    background: rgba(255, 255, 255, 0);
+    margin-top: 25px;
+     text-align: center; 
+    border-style: none;
+    background: url("images/logoos.png");
+    position: absolute;
+    justify-content: flex-start;
+    text-shadow: 2px 2px 3px rgb(190, 29, 29);
+    
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.menu{
+	width: 100%;
+	/* height: 120px; */
+        background-color: #6a7475; 
+        background-color: #6a7475;
+}
+        /*-webkit-animation-name: example; 
+        -webkit-animation-duration: 4s; 
+        animation-name: example;
+        animation-duration: 4s;
+}*/
+/*@keyframes example {
+        0%   {background-color: red;}
+        25%  {background-color: rgb(187, 156, 156);}
+        50%  {background-color: red;}
+        100% {background-color: rgb(187, 156, 156);}
+      }*/
+.menu ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        border-left: 5px solid black;
+        box-shadow: 5px 5px black;
+
+}
+.menu ul li {
+        padding: 30px;
+        list-style-type: none;
+        color: white;
+}
+.menu ul li a{
+        color: white;
+        text-transform: uppercase;
+        text-decoration: none
+}
+.menu-item2 {
+        border-left: 2px solid #fff;
+        border-right: 2px solid #fff;
+}
+.facebook{
+        font-size: 25px;
+        margin-left: 15%;
+}
+.twitter{
+        font-size: 25px;
+}
+.insta{
+        font-size: 25px;
+}
+.google{
+        font-size: 25px;
+}
+#polska{
+        height: 75px;
+        position: absolute;
+        left: 10px;
+        margin-top: 10px;
+}
+.polska2{
+        margin-left: 50px;
+        margin-top: 7px;
+
+
+}
+.contenu {
+        display: flex;
+        
+}
+.gauche{
+        width: 60%;
+        text-align: center;
+}
+.commu{
+        display: flex;
+        justify-content: center;
+        color: #fff;
+}
+#droite{
+       width: 40%;
+       border-left: 5px solid black;
+       box-shadow: 5px 5px black;
+       background: #6a7475;
+
+}
+.image{
+        width: 75%;
+        height: 300px;
+}
+/* .menu-item1 {
+        display: inline-block;
+        margin-left: 300px;
+        margin-top: 30px;
+        
+}
+.menu-item2{
+        display: inline-block;
+        margin-left: 400px;
+}
+.menu-item1 a, .menu-item2 a {
+        color: white;
+        font-size: 1.9em;
+        text-decoration: none;
+}
+.menu-follow {
+        float: right;
+
+
+
+} */
+
+#tab {
+    margin-top: 100px;
+    margin-left: 50px;
+    background: none;
+    color: white;
+    width: 90%;
+}
+
+.label {
+    margin-left: 5px; 
+}
+
+#texta {
+    resize:none;
+    margin-left: px;
+}
+
+.input {
+    width: 395px;
+    color: black;
+    background-color: bisque;
+}
+
+.utilisateurs {
+        width: 100px;
+} 
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 130px;
+    font-family: Arial;
+    color: white;
+    background-image: url('image/color.jpg');
+    -webkit-background-clip: text;/*pour mettre l'image sur le text */
+    
+}
+@keyframes animate {
+
+    0%{
+        background-position: left 0px top 10px;
+    }
+    40%{
+        background-position: left 800px top 10px;
+    }
+
+}
+
+ .letext{    
+    font-size: 45px;
+    font-family: arial;
+    /* background-image: url('image/polskaa.jpg'); */
+    color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(0, 0, 0, 0.5)
+
+     /* -webkit-background-clip: text;pour mettre l'image sur le text  */
+    /* animation: animate1 15s linear infinite; */
+}
+
+  
+
+
+.ladiv{
+    height: 50%;
+    width: 75%;
+    margin-left: 200px;
+}
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+  }
+  
+  /* Style les bouttons qui sont utilisée pour ouvrir le tab content */
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+  }
+  
+  /* Change le background color des boutons quand tu passe ta souris dessus */
+  .tab button:hover {
+    background-color: black;
+    color: white;
+  }
+  
+  /* Create an active/current tablink class */
+  .tab button.active {
+    background-color: #ccc;
+  }
+  
+  /* Style the tab content */
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+  .tabcontent {
+    animation: fadeEffect 1s; /* Fading effect takes 1 second */
+  }
+  
+  /* Go from zero to full opacity */
+  @keyframes fadeEffect {
+    from {opacity: 0;}
+    to {opacity: 1;}
+  }
+  .bannier {
+      height: 200px;
+      width: 100%; 
+      background: url(image/bannier.jpg);
+      margin-top: 10px;
+      repeat: none;
+      font-family: 'Bungee Inline', cursive;
+  }
+.article {
+    margin-left: 70px;
+
+}
+
+.article:hover{
+    
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    transform: scale(1.25);
+    /
+
+    -webkit-transform: matrix(1.05, 0, 0, 1.05, 0, 0);
+    -moz-transform: matrix(1.05, 0, 0, 1.05, 0, 0);
+    -ms-transform: matrix(1.05, 0, 0, 1.05, 0, 0);
+    -o-transform: matrix(1.05, 0, 0, 1.05, 0, 0);
+    transform: matrix(1.05, 0, 0, 1.05, 0, 0);
+}
+.surplus {
+    Height: 100px;
+    width: 100%;
+    
+}
+p {
+    font-family: 'Hammersmith One', sans-serif;
+}
+@font-face {
+    font-family: "MADE canvas Regular PERSONAL USE";
+    src: url(MADE\ Canvas\ Regular\ PERSONAL\ USE.otf)
+}
+.titreart {
+    float: right;
+    margin-right: 150px;
+    font-family: url(MADE\ Canvas\ Regular\ PERSONAL\ USE.otf)
+}
+.descript {
+    Float: right;
+
+    margin-right: 150px;
+}
+.float {
+    float: left;
+}
+.tout {
+    height: 200px;
+    width: 100%;
+    float: right;
+
+}
+
+h1, h2, h3 {
+    font-family: 'Righteous', cursive;
+    justify-content: center;
+}
+button {
+    font-family: 'Righteous', cursive;
+}
+.h2, .h3, .p {
+    display: flex;
+    justify-content: center;
+    margin-right: 150px;
+}
+.paiement {
+    background: url(bouton_acheter.png);
+    height: 47px;
+    width: 141px;
+    float:right;
+    margin-right: 452px;
+}
+.paiement:hover {
+    background: url(bouton_acheter1.png);
+    height: 47px;
+    width: 141px;
+    float:right;
+    margin-right: 452px;
+}
+
+
+
